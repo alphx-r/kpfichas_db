@@ -8386,6 +8386,20 @@
     "updated_at": "2026-07-04T02:25:35.521+00:00"
   },
   {
+    "name": "prismatic-shield",
+    "descricao": "Um escudo prismático surge a frente do time aliado, refletindo o primeiro movimento que busque causar impacto indireto contra ele. Possui prioridade -1.",
+    "type": "light",
+    "type2": null,
+    "damage_class": "status",
+    "power": null,
+    "accuracy": 92,
+    "contest_style": "clever",
+    "approved": true,
+    "updated_at": "2026-11-17T22:11:17.503Z",
+    "is_tm": false,
+    "tm_number": null
+  },
+  {
     "name": "protect",
     "descricao": "Prevents any moves from hitting the user this turn.",
     "type": "normal",

@@ -8387,17 +8387,15 @@
   },
   {
     "name": "prismatic-shield",
-    "descricao": "Um escudo prismático surge a frente do time aliado, refletindo o primeiro movimento que busque causar impacto indireto contra ele. Possui prioridade -1.",
+    "descricao": "Um escudo prismático surge a frente do time aliado, refletindo o primeiro movimento que busque causar impacto indireto contra ele durante este turno. Possui prioridade -1.",
     "type": "light",
     "type2": null,
     "damage_class": "status",
     "power": null,
-    "accuracy": 92,
+    "accuracy": 101,
     "contest_style": "clever",
-    "approved": true,
-    "updated_at": "2026-11-17T22:11:17.503Z",
-    "is_tm": false,
-    "tm_number": null
+    "approved": false,
+    "updated_at": "2026-11-17T22:12:46.982Z"
   },
   {
     "name": "protect",

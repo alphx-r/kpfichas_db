@@ -189,7 +189,8 @@
   },
   {
     "name": "defeatist",
-    "ab_desc": "Halves Attack and Special Attack at 50% max HP or less."
+    "ab_desc": "Reduz para a metade o ATK e o Sp. ATK quando o HP se torna metade ou menos. Com isso a DEF e o Sp. DEF são aumentados em +1.",
+    "approved": true
   },
   {
     "name": "defiant",
@@ -338,6 +339,11 @@
   {
     "name": "galvanize",
     "ab_desc": "This Pokémon's Normal moves are Electric and have their power increased to 1.2×."
+  },
+  {
+    "name": "glam-voice",
+    "ab_desc": "Todos os movimentos baseados em som se tornam Fairy-type moves.",
+    "approved": true
   },
   {
     "name": "gluttony",

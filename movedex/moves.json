@@ -8394,8 +8394,10 @@
     "power": null,
     "accuracy": 101,
     "contest_style": "clever",
-    "approved": false,
-    "updated_at": "2026-11-17T22:12:46.982Z"
+    "approved": true,
+    "updated_at": "2026-11-17T22:13:12.926Z",
+    "is_tm": false,
+    "tm_number": null
   },
   {
     "name": "protect",

@@ -265,6 +265,11 @@
     "ab_desc": "This Pokémon automatically switches out when its HP drops below half."
   },
   {
+    "name": "entrenched",
+    "ab_desc": "Quando o Pokémon usa um golpe de status, sua Defense aumenta em 1 estágio ao fim do turno. O efeito se acumula até +2 e não é cancelado quando o Pokémon troca de posição com outro aliado em campo.",
+    "approved": true
+  },
+  {
     "name": "eutrophication",
     "ab_desc": "Enquanto Grassy Terrain estiver ativo, ele se torna Algal Field. Pokémon dos tipo Water e Grass perdem 1/16 de HP por turno, enquanto o usuário recupera 1/16 de HP por turno. Golpes Water e Grass tem seu poder aumentado em 30%. Diminui a velocidade de outras tipagens em 2x."
   },
@@ -556,6 +561,11 @@
   {
     "name": "liquid-voice",
     "ab_desc": "Sound-based moves become Water-type."
+  },
+  {
+    "name": "lonesome-rage",
+    "ab_desc": "Quando este Pokémon é o último Pokémon capaz de lutar do seu time, sua Attack aumenta em 1 estágio ao entrar em campo ou assim que o aliado anterior é derrotado. O efeito acontece uma única vez por batalha.",
+    "approved": true
   },
   {
     "name": "long-reach",

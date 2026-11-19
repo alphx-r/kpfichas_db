@@ -1,650 +1,74 @@
 [
- {
-  "nome": "Cheri",
-  "tipo": "electric",
-  "sabor": "apimentado",
-  "raridade": "comum",
-  "efeito": "Cura Paralysis quando consumida.",
-  "triturada": 60,
-  "colheita": 3
- },
- {
-  "nome": "Figy",
-  "tipo": "bug",
-  "sabor": "apimentado",
-  "raridade": "comum",
-  "efeito": "Quando o HP do pokémon portador estiver menor que 25%, irá restaurar 50% do HP, porém irá causar Confusion se o pokémon for psychic, ice, steel ou poison.",
-  "triturada": 60,
-  "colheita": 3
- },
- {
-  "nome": "Pomeg",
-  "tipo": "dark",
-  "sabor": "apimentado",
-  "raridade": "comum",
-  "efeito": "Quando consumido em batalha, reduz 50% do HP máximo do pokémon, mas aumenta o ganho de pontos em +2 por turno de batalha.",
-  "triturada": 60,
-  "colheita": 3
- },
- {
-  "nome": "Leppa",
-  "tipo": "fighting",
-  "sabor": "apimentado",
-  "raridade": "comum",
-  "efeito": "Diminui 50% do dano recebido de um movimento superefetivo Fighting-type.",
-  "triturada": 100,
-  "colheita": 3
- },
- {
-  "nome": "Liechi",
-  "tipo": "fire",
-  "sabor": "apimentado",
-  "raridade": "comum",
-  "efeito": "Diminui 50% do dano recebido de um movimento superefetivo Fire-type.",
-  "triturada": 100,
-  "colheita": 3
- },
- {
-  "nome": "Razz",
-  "tipo": "fairy",
-  "sabor": "apimentado",
-  "raridade": "comum",
-  "efeito": "Diminui 50% do dano recebido de um movimento superefetivo Fairy-type.",
-  "triturada": 100,
-  "colheita": 3
- },
- {
-  "nome": "Chesto",
-  "tipo": "water",
-  "sabor": "seco",
-  "raridade": "comum",
-  "efeito": "Cura Sleep quando consumida.",
-  "triturada": 60,
-  "colheita": 3
- },
- {
-  "nome": "Bluk",
-  "tipo": "fire",
-  "sabor": "seco",
-  "raridade": "comum",
-  "efeito": "Quando o HP do pokémon portador estiver menor que 25%, irá restaurar 50% do HP, porém irá causar Confusion se o pokémon for water, grass ou bug.",
-  "triturada": 60,
-  "colheita": 3
- },
- {
-  "nome": "Kelpsy",
-  "tipo": "normal",
-  "sabor": "seco",
-  "raridade": "comum",
-  "efeito": "Quando consumido em batalha, diminui o ATK em -1, mas aumenta o ganho de pontos em +2 por turno de batalha.",
-  "triturada": 60,
-  "colheita": 3
- },
- {
-  "nome": "Wiki",
-  "tipo": "ice",
-  "sabor": "seco",
-  "raridade": "comum",
-  "efeito": "Diminui 50% do dano recebido de um movimento superefetivo Ice-type.",
-  "triturada": 100,
-  "colheita": 3
- },
- {
-  "nome": "Cornn",
-  "tipo": "water",
-  "sabor": "seco",
-  "raridade": "comum",
-  "efeito": "Diminui 50% do dano recebido de um movimento superefetivo Water-type.",
-  "triturada": 100,
-  "colheita": 3
- },
- {
-  "nome": "Coba",
-  "tipo": "flying",
-  "sabor": "seco",
-  "raridade": "comum",
-  "efeito": "Diminui 50% do dano recebido de um movimento superefetivo Flying-type.",
-  "triturada": 100,
-  "colheita": 3
- },
- {
-  "nome": "Aspear",
-  "tipo": "ice",
-  "sabor": "azedo",
-  "raridade": "comum",
-  "efeito": "Cura Freeze quando consumida.",
-  "triturada": 60,
-  "colheita": 3
- },
- {
-  "nome": "Iapapa",
-  "tipo": "fighting",
-  "sabor": "azedo",
-  "raridade": "comum",
-  "efeito": "Quando o HP do pokémon portador estiver menor que 25%, irá restaurar 50% do HP, porém irá causar Confusion se o pokémon for normal, flying ou ghost.",
-  "triturada": 60,
-  "colheita": 3
- },
- {
-  "nome": "Grepa",
-  "tipo": "steel",
-  "sabor": "azedo",
-  "raridade": "comum",
-  "efeito": "Quando consumido em batalha, diminui o sDEF em -1, mas aumenta o ganho de pontos em +2 por turno de batalha.",
-  "triturada": 60,
-  "colheita": 3
- },
- {
-  "nome": "Wacan",
-  "tipo": "electric",
-  "sabor": "azedo",
-  "raridade": "comum",
-  "efeito": "Diminui 50% do dano recebido de um movimento superefetivo Electric-type.",
-  "triturada": 100,
-  "colheita": 3
- },
- {
-  "nome": "Charti",
-  "tipo": "rock",
-  "sabor": "azedo",
-  "raridade": "comum",
-  "efeito": "Diminui 50% do dano recebido de um movimento superefetivo Rock-type.",
-  "triturada": 100,
-  "colheita": 3
- },
- {
-  "nome": "Shuca",
-  "tipo": "ground",
-  "sabor": "azedo",
-  "raridade": "comum",
-  "efeito": "Diminui 50% do dano recebido de um movimento superefetivo Ground-type.",
-  "triturada": 100,
-  "colheita": 3
- },
- {
-  "nome": "Rawst",
-  "tipo": "ice",
-  "sabor": "amargo",
-  "raridade": "comum",
-  "efeito": "Cura Burn quando consumida.",
-  "triturada": 60,
-  "colheita": 3
- },
- {
-  "nome": "Aguav",
-  "tipo": "flying",
-  "sabor": "amargo",
-  "raridade": "comum",
-  "efeito": "Quando o HP do pokémon portador estiver menor que 25%, irá restaurar 50% do HP, porém irá causar Confusion se o pokémon for electric, ground ou dragon.",
-  "triturada": 60,
-  "colheita": 3
- },
- {
-  "nome": "Hondew",
-  "tipo": "ground",
-  "sabor": "amargo",
-  "raridade": "comum",
-  "efeito": "Quando consumido em batalha, diminui o sATK em -1, mas aumenta o ganho de pontos em +2 por turno de batalha.",
-  "triturada": 60,
-  "colheita": 3
- },
- {
-  "nome": "Rindo",
-  "tipo": "grass",
-  "sabor": "amargo",
-  "raridade": "comum",
-  "efeito": "Diminui 50% do dano recebido de um movimento superefetivo Grass-type.",
-  "triturada": 100,
-  "colheita": 3
- },
- {
-  "nome": "Kebia",
-  "tipo": "poison",
-  "sabor": "amargo",
-  "raridade": "comum",
-  "efeito": "Diminui 50% do dano recebido de um movimento superefetivo Poison-type.",
-  "triturada": 100,
-  "colheita": 3
- },
- {
-  "nome": "Tanga",
-  "tipo": "bug",
-  "sabor": "amargo",
-  "raridade": "comum",
-  "efeito": "Diminui 50% do dano recebido de um movimento superefetivo Bug-type.",
-  "triturada": 100,
-  "colheita": 3
- },
- {
-  "nome": "Pecha",
-  "tipo": "fairy",
-  "sabor": "doce",
-  "raridade": "comum",
-  "efeito": "Cura Poison quando consumida.",
-  "triturada": 60,
-  "colheita": 3
- },
- {
-  "nome": "Mago",
-  "tipo": "dragon",
-  "sabor": "doce",
-  "raridade": "comum",
-  "efeito": "Quando o HP do pokémon portador estiver menor que 25%, irá restaurar 50% do HP, porém irá causar Confusion se o pokémon for fire, fighting, dark ou rock.",
-  "triturada": 60,
-  "colheita": 3
- },
- {
-  "nome": "Qualot",
-  "tipo": "poison",
-  "sabor": "doce",
-  "raridade": "comum",
-  "efeito": "Quando consumido em batalha, diminui o DEF em um estágio, mas aumenta o ganho de pontos em +2 por turno de batalha.",
-  "triturada": 60,
-  "colheita": 3
- },
- {
-  "nome": "Payapa",
-  "tipo": "psychic",
-  "sabor": "doce",
-  "raridade": "comum",
-  "efeito": "Diminui 50% do dano recebido de um movimento superefetivo Psychic-type.",
-  "triturada": 100,
-  "colheita": 3
- },
- {
-  "nome": "Colbur",
-  "tipo": "dark",
-  "sabor": "doce",
-  "raridade": "comum",
-  "efeito": "Diminui 50% do dano recebido de um movimento superefetivo Dark-type.",
-  "triturada": 100,
-  "colheita": 3
- },
- {
-  "nome": "Kasib",
-  "tipo": "ghost",
-  "sabor": "doce",
-  "raridade": "comum",
-  "efeito": "Diminui 50% do dano recebido de um movimento superefetivo Ghost-type.",
-  "triturada": 100,
-  "colheita": 3
- },
- {
-  "nome": "Spelon",
-  "tipo": "flying",
-  "sabor": "apimentado",
-  "raridade": "incomum",
-  "efeito": "Transforma todos os movimentos Cool Style em STAB após consumida.",
-  "triturada": 300,
-  "colheita": 2
- },
- {
-  "nome": "Haban",
-  "tipo": "dragon",
-  "sabor": "apimentado",
-  "raridade": "incomum",
-  "efeito": "Diminui 50% do dano recebido de um movimento superefetivo Dragon-type.",
-  "triturada": 300,
-  "colheita": 2
- },
- {
-  "nome": "Roseli",
-  "tipo": "fairy",
-  "sabor": "apimentado",
-  "raridade": "incomum",
-  "efeito": "Se oferecido a um pokémon selvagem, confere +50 HAPP se o pokémon for psychic, ice, steel ou poison.",
-  "triturada": 300,
-  "colheita": 2
- },
- {
-  "nome": "Occan",
-  "tipo": "fire",
-  "sabor": "apimentado",
-  "raridade": "incomum",
-  "efeito": "Aumenta o ATK em +1 quando o HP está abaixo de 25%.",
-  "triturada": 300,
-  "colheita": 2
- },
- {
-  "nome": "Chople",
-  "tipo": "fighting",
-  "sabor": "apimentado",
-  "raridade": "incomum",
-  "efeito": "Cura um Move que esteja Disabled.",
-  "triturada": 300,
-  "colheita": 2
- },
- {
-  "nome": "Tamato",
-  "tipo": "psychic",
-  "sabor": "apimentado",
-  "raridade": "incomum",
-  "efeito": "Aumenta a chance de Evasão em +20% quando o HP está abaixo de 25%.",
-  "triturada": 300,
-  "colheita": 2
- },
- {
-  "nome": "Pamtre",
-  "tipo": "ice",
-  "sabor": "seco",
-  "raridade": "incomum",
-  "efeito": "Transforma todos os movimentos Beauty Style em STAB após consumida.",
-  "triturada": 300,
-  "colheita": 2
- },
- {
-  "nome": "Yache",
-  "tipo": "bug",
-  "sabor": "seco",
-  "raridade": "incomum",
-  "efeito": "Diminui 50% do dano recebido de um movimento Sound-based.",
-  "triturada": 300,
-  "colheita": 2
- },
- {
-  "nome": "Belue",
-  "tipo": "rock",
-  "sabor": "seco",
-  "raridade": "incomum",
-  "efeito": "Se oferecido a um pokémon selvagem, confere +50 HAPP se o pokémon for water, grass ou bug.",
-  "triturada": 300,
-  "colheita": 2
- },
- {
-  "nome": "Apicot",
-  "tipo": "ground",
-  "sabor": "seco",
-  "raridade": "incomum",
-  "efeito": "Aumenta o sATK em +1 quando o HP está abaixo de 25%.",
-  "triturada": 300,
-  "colheita": 2
- },
- {
-  "nome": "Oran",
-  "tipo": "poison",
-  "sabor": "seco",
-  "raridade": "incomum",
-  "efeito": "Cura um Pokémon de Heal Block quando consumida.",
-  "triturada": 300,
-  "colheita": 2
- },
- {
-  "nome": "Ganlon",
-  "tipo": "flying",
-  "sabor": "seco",
-  "raridade": "incomum",
-  "efeito": "Aumenta a precisão de um movimento em +20% quando o HP está abaixo de 25%.",
-  "triturada": 300,
-  "colheita": 2
- },
- {
-  "nome": "Passho",
-  "tipo": "ground",
-  "sabor": "azedo",
-  "raridade": "incomum",
-  "efeito": "Transforma todos os movimentos Tough Style em STAB após consumida.",
-  "triturada": 300,
-  "colheita": 2
- },
- {
-  "nome": "Chilan",
-  "tipo": "normal",
-  "sabor": "azedo",
-  "raridade": "incomum",
-  "efeito": "Diminui 50% do dano recebido de um movimento Normal-type.",
-  "triturada": 300,
-  "colheita": 2
- },
- {
-  "nome": "Nomel",
-  "tipo": "dragon",
-  "sabor": "azedo",
-  "raridade": "incomum",
-  "efeito": "Se oferecido a um pokémon selvagem, confere +50 HAPP se o pokémon for normal, flying ou ghost.",
-  "triturada": 300,
-  "colheita": 2
- },
- {
-  "nome": "Micle",
-  "tipo": "rock",
-  "sabor": "azedo",
-  "raridade": "incomum",
-  "efeito": "Aumenta o DEF em +1 quando o HP está abaixo de 25%.",
-  "triturada": 300,
-  "colheita": 2
- },
- {
-  "nome": "Sitrus",
-  "tipo": "grass",
-  "sabor": "azedo",
-  "raridade": "incomum",
-  "efeito": "Impede Leech Seed de afetar o Pokémon quando consumida.",
-  "triturada": 300,
-  "colheita": 2
- },
- {
-  "nome": "Pinap",
-  "tipo": "dark",
-  "sabor": "azedo",
-  "raridade": "incomum",
-  "efeito": "Aumenta a chance de sucesso da habilidade Pick Up em +20% após consumida.",
-  "triturada": 300,
-  "colheita": 2
- },
- {
-  "nome": "Rabuta",
-  "tipo": "ghost",
-  "sabor": "amargo",
-  "raridade": "incomum",
-  "efeito": "Transforma todos os movimentos Clever Style em STAB após consumida.",
-  "triturada": 300,
-  "colheita": 2
- },
- {
-  "nome": "Babiri",
-  "tipo": "steel",
-  "sabor": "amargo",
-  "raridade": "incomum",
-  "efeito": "Diminui 50% do dano recebido de um movimento superefetivo Steel-type.",
-  "triturada": 300,
-  "colheita": 2
- },
- {
-  "nome": "Wepear",
-  "tipo": "psychic",
-  "sabor": "amargo",
-  "raridade": "incomum",
-  "efeito": "Se oferecido a um pokémon selvagem, confere +50 HAPP se o pokémon for electric, ground ou dragon.",
-  "triturada": 300,
-  "colheita": 2
- },
- {
-  "nome": "Salac",
-  "tipo": "psychic",
-  "sabor": "amargo",
-  "raridade": "incomum",
-  "efeito": "Aumenta o sDEF em +1 quando o HP está abaixo de 25%.",
-  "triturada": 300,
-  "colheita": 2
- },
- {
-  "nome": "Durin",
-  "tipo": "steel",
-  "sabor": "amargo",
-  "raridade": "incomum",
-  "efeito": "Cura Infatuated quando consumida.",
-  "triturada": 300,
-  "colheita": 2
- },
- {
-  "nome": "Lum",
-  "tipo": "grass",
-  "sabor": "amargo",
-  "raridade": "incomum",
-  "efeito": "Dobra a recuperação de movimentos de cura e absorb quando o HP está abaixo de 50%.",
-  "triturada": 300,
-  "colheita": 2
- },
- {
-  "nome": "Watmel",
-  "tipo": "normal",
-  "sabor": "doce",
-  "raridade": "incomum",
-  "efeito": "Transforma todos os movimentos Cute Style em STAB após consumida.",
-  "triturada": 300,
-  "colheita": 2
- },
- {
-  "nome": "Magost",
-  "tipo": "poison",
-  "sabor": "doce",
-  "raridade": "incomum",
-  "efeito": "Diminui 50% do dano recebido de um movimento crítico.",
-  "triturada": 300,
-  "colheita": 2
- },
- {
-  "nome": "Nanab",
-  "tipo": "water",
-  "sabor": "doce",
-  "raridade": "incomum",
-  "efeito": "Se oferecido a um pokémon selvagem, confere +50 HAPP se o pokémon for fire, fighting, dark ou rock.",
-  "triturada": 300,
-  "colheita": 2
- },
- {
-  "nome": "Petaya",
-  "tipo": "electric",
-  "sabor": "doce",
-  "raridade": "incomum",
-  "efeito": "Aumenta o SPEED em +1 quando o HP está abaixo de 25%.",
-  "triturada": 300,
-  "colheita": 2
- },
- {
-  "nome": "Persim",
-  "tipo": "rock",
-  "sabor": "doce",
-  "raridade": "incomum",
-  "efeito": "Cura Confusion quando consumida.",
-  "triturada": 300,
-  "colheita": 2
- },
- {
-  "nome": "Lansat",
-  "tipo": "fighting",
-  "sabor": "doce",
-  "raridade": "incomum",
-  "efeito": "Aumenta a chance de Critical Hit em +20% quando o HP está abaixo de 25%.",
-  "triturada": 300,
-  "colheita": 2
- },
- {
-  "nome": "Custap",
-  "tipo": "ghost",
-  "sabor": "apimentado",
-  "raridade": "rara",
-  "efeito": "Faz o pokémon portador sempre agir primeiro (Priority) quando o HP máximo está abaixo de 25%.",
-  "triturada": 700,
-  "colheita": 1
- },
- {
-  "nome": "Rowap",
-  "tipo": "dark",
-  "sabor": "seco",
-  "raridade": "rara",
-  "efeito": "Causa 1/8 de dano no HP máx de um pokémon que atingir o portador da Berry com Special Move.",
-  "triturada": 700,
-  "colheita": 1
- },
- {
-  "nome": "Jaboca",
-  "tipo": "dragon",
-  "sabor": "azedo",
-  "raridade": "rara",
-  "efeito": "Causa 1/8 de dano no HP máx de um pokémon que atingir o portador da Berry com Physical Move.",
-  "triturada": 700,
-  "colheita": 1
- },
- {
-  "nome": "Maranga",
-  "tipo": "fire",
-  "sabor": "amargo",
-  "raridade": "rara",
-  "efeito": "Aumenta a sDEF em +2 se o pokémon for atingido por um Special Move.",
-  "triturada": 700,
-  "colheita": 1
- },
- {
-  "nome": "Kee",
-  "tipo": "steel",
-  "sabor": "doce",
-  "raridade": "rara",
-  "efeito": "Aumenta a DEF em +2 se o pokémon for atingido por um Physical Move.",
-  "triturada": 700,
-  "colheita": 1
- },
- {
-  "nome": "Starf",
-  "tipo": "grass",
-  "sabor": null,
-  "raridade": "rarissima",
-  "efeito": "Aumenta um Stat aleatório em +6 quando o HP está abaixo de 25%.",
-  "triturada": 1000,
-  "colheita": 1
- },
- {
-  "nome": "Enigma",
-  "tipo": "bug",
-  "sabor": null,
-  "raridade": "rarissima",
-  "efeito": "Restaura 25% do HP máximo do portador se for atingido por um movimento superefetivo.",
-  "triturada": 1000,
-  "colheita": 1
- },
- {
-  "nome": "Eggant",
-  "tipo": "water",
-  "sabor": null,
-  "raridade": "rarissima",
-  "efeito": "Torna o pokémon imune a ability adversário por duas rodadas.",
-  "triturada": 1000,
-  "colheita": 1
- },
- {
-  "nome": "Strib",
-  "tipo": "electric",
-  "sabor": null,
-  "raridade": "rarissima",
-  "efeito": "Reseta os usos de movimentos de defesa absoluta ao início depois de consumida.",
-  "triturada": 1000,
-  "colheita": 1
- },
- {
-  "nome": "Touga",
-  "tipo": "normal",
-  "sabor": null,
-  "raridade": "rarissima",
-  "efeito": "Impede a mitigação do movimento seguinte ao consumo.",
-  "triturada": 1000,
-  "colheita": 1
- },
- {
-  "nome": "Drash",
-  "tipo": "fairy",
-  "sabor": null,
-  "raridade": "rarissima",
-  "efeito": "Se a soma dos STATS for no máximo 250, aumenta todos os stats em +30 por uma batalha ou evento completo.",
-  "triturada": 1000,
-  "colheita": 1
- },
- {
-  "nome": "Pumkin",
-  "tipo": "ghost",
-  "sabor": null,
-  "raridade": "rarissima",
-  "efeito": "Cura Curse quando consumida.",
-  "triturada": 1000,
-  "colheita": 1
- }
+  {"nome": "Cheri", "tipo": "electric", "sabor": "apimentado", "raridade": "comum", "efeito": "Cura Paralysis quando consumida.", "triturada": 60, "colheita": 3},
+  {"nome": "Figy", "tipo": "bug", "sabor": "apimentado", "raridade": "comum", "efeito": "Quando o HP do pokémon portador estiver menor que 25%, irá restaurar 50% do HP, porém irá causar Confusion se o pokémon for psychic, ice, steel ou poison.", "triturada": 60, "colheita": 3},
+  {"nome": "Pomeg", "tipo": "dark", "sabor": "apimentado", "raridade": "comum", "efeito": "Quando consumido em batalha, reduz 50% do HP máximo do pokémon, mas aumenta o ganho de pontos em +2 por turno de batalha.", "triturada": 60, "colheita": 3},
+  {"nome": "Leppa", "tipo": "fighting", "sabor": "apimentado", "raridade": "comum", "efeito": "Diminui 50% do dano recebido de um movimento superefetivo Fighting-type.", "triturada": 100, "colheita": 3},
+  {"nome": "Liechi", "tipo": "fire", "sabor": "apimentado", "raridade": "comum", "efeito": "Diminui 50% do dano recebido de um movimento superefetivo Fire-type.", "triturada": 100, "colheita": 3},
+  {"nome": "Razz", "tipo": "fairy", "sabor": "apimentado", "raridade": "comum", "efeito": "Diminui 50% do dano recebido de um movimento superefetivo Fairy-type.", "triturada": 100, "colheita": 3},
+  {"nome": "Chesto", "tipo": "water", "sabor": "seco", "raridade": "comum", "efeito": "Cura Sleep quando consumida.", "triturada": 60, "colheita": 3},
+  {"nome": "Bluk", "tipo": "fire", "sabor": "seco", "raridade": "comum", "efeito": "Quando o HP do pokémon portador estiver menor que 25%, irá restaurar 50% do HP, porém irá causar Confusion se o pokémon for water, grass ou bug.", "triturada": 60, "colheita": 3},
+  {"nome": "Kelpsy", "tipo": "normal", "sabor": "seco", "raridade": "comum", "efeito": "Quando consumido em batalha, diminui o ATK em -1, mas aumenta o ganho de pontos em +2 por turno de batalha.", "triturada": 60, "colheita": 3},
+  {"nome": "Wiki", "tipo": "ice", "sabor": "seco", "raridade": "comum", "efeito": "Diminui 50% do dano recebido de um movimento superefetivo Ice-type.", "triturada": 100, "colheita": 3},
+  {"nome": "Cornn", "tipo": "water", "sabor": "seco", "raridade": "comum", "efeito": "Diminui 50% do dano recebido de um movimento superefetivo Water-type.", "triturada": 100, "colheita": 3},
+  {"nome": "Coba", "tipo": "flying", "sabor": "seco", "raridade": "comum", "efeito": "Diminui 50% do dano recebido de um movimento superefetivo Flying-type.", "triturada": 100, "colheita": 3},
+  {"nome": "Aspear", "tipo": "ice", "sabor": "azedo", "raridade": "comum", "efeito": "Cura Freeze quando consumida.", "triturada": 60, "colheita": 3},
+  {"nome": "Iapapa", "tipo": "fighting", "sabor": "azedo", "raridade": "comum", "efeito": "Quando o HP do pokémon portador estiver menor que 25%, irá restaurar 50% do HP, porém irá causar Confusion se o pokémon for normal, flying ou ghost.", "triturada": 60, "colheita": 3},
+  {"nome": "Grepa", "tipo": "steel", "sabor": "azedo", "raridade": "comum", "efeito": "Quando consumido em batalha, diminui o sDEF em -1, mas aumenta o ganho de pontos em +2 por turno de batalha.", "triturada": 60, "colheita": 3},
+  {"nome": "Wacan", "tipo": "electric", "sabor": "azedo", "raridade": "comum", "efeito": "Diminui 50% do dano recebido de um movimento superefetivo Electric-type.", "triturada": 100, "colheita": 3},
+  {"nome": "Charti", "tipo": "rock", "sabor": "azedo", "raridade": "comum", "efeito": "Diminui 50% do dano recebido de um movimento superefetivo Rock-type.", "triturada": 100, "colheita": 3},
+  {"nome": "Shuca", "tipo": "ground", "sabor": "azedo", "raridade": "comum", "efeito": "Diminui 50% do dano recebido de um movimento superefetivo Ground-type.", "triturada": 100, "colheita": 3},
+  {"nome": "Rawst", "tipo": "ice", "sabor": "amargo", "raridade": "comum", "efeito": "Cura Burn quando consumida.", "triturada": 60, "colheita": 3},
+  {"nome": "Aguav", "tipo": "flying", "sabor": "amargo", "raridade": "comum", "efeito": "Quando o HP do pokémon portador estiver menor que 25%, irá restaurar 50% do HP, porém irá causar Confusion se o pokémon for electric, ground ou dragon.", "triturada": 60, "colheita": 3},
+  {"nome": "Hondew", "tipo": "ground", "sabor": "amargo", "raridade": "comum", "efeito": "Quando consumido em batalha, diminui o sATK em -1, mas aumenta o ganho de pontos em +2 por turno de batalha.", "triturada": 60, "colheita": 3},
+  {"nome": "Rindo", "tipo": "grass", "sabor": "amargo", "raridade": "comum", "efeito": "Diminui 50% do dano recebido de um movimento superefetivo Grass-type.", "triturada": 100, "colheita": 3},
+  {"nome": "Kebia", "tipo": "poison", "sabor": "amargo", "raridade": "comum", "efeito": "Diminui 50% do dano recebido de um movimento superefetivo Poison-type.", "triturada": 100, "colheita": 3},
+  {"nome": "Tanga", "tipo": "bug", "sabor": "amargo", "raridade": "comum", "efeito": "Diminui 50% do dano recebido de um movimento superefetivo Bug-type.", "triturada": 100, "colheita": 3},
+  {"nome": "Pecha", "tipo": "fairy", "sabor": "doce", "raridade": "comum", "efeito": "Cura Poison quando consumida.", "triturada": 60, "colheita": 3},
+  {"nome": "Mago", "tipo": "dragon", "sabor": "doce", "raridade": "comum", "efeito": "Quando o HP do pokémon portador estiver menor que 25%, irá restaurar 50% do HP, porém irá causar Confusion se o pokémon for fire, fighting, dark ou rock.", "triturada": 60, "colheita": 3},
+  {"nome": "Qualot", "tipo": "poison", "sabor": "doce", "raridade": "comum", "efeito": "Quando consumido em batalha, diminui o DEF em um estágio, mas aumenta o ganho de pontos em +2 por turno de batalha.", "triturada": 60, "colheita": 3},
+  {"nome": "Payapa", "tipo": "psychic", "sabor": "doce", "raridade": "comum", "efeito": "Diminui 50% do dano recebido de um movimento superefetivo Psychic-type.", "triturada": 100, "colheita": 3},
+  {"nome": "Colbur", "tipo": "dark", "sabor": "doce", "raridade": "comum", "efeito": "Diminui 50% do dano recebido de um movimento superefetivo Dark-type.", "triturada": 100, "colheita": 3},
+  {"nome": "Kasib", "tipo": "ghost", "sabor": "doce", "raridade": "comum", "efeito": "Diminui 50% do dano recebido de um movimento superefetivo Ghost-type.", "triturada": 100, "colheita": 3},
+  {"nome": "Spelon", "tipo": "flying", "sabor": "apimentado", "raridade": "incomum", "efeito": "Transforma todos os movimentos Cool Style em STAB após consumida.", "triturada": 300, "colheita": 2},
+  {"nome": "Haban", "tipo": "dragon", "sabor": "apimentado", "raridade": "incomum", "efeito": "Diminui 50% do dano recebido de um movimento superefetivo Dragon-type.", "triturada": 300, "colheita": 2},
+  {"nome": "Roseli", "tipo": "fairy", "sabor": "apimentado", "raridade": "incomum", "efeito": "Se oferecido a um pokémon selvagem, confere +50 HAPP se o pokémon for psychic, ice, steel ou poison.", "triturada": 300, "colheita": 2},
+  {"nome": "Occan", "tipo": "fire", "sabor": "apimentado", "raridade": "incomum", "efeito": "Aumenta o ATK em +1 quando o HP está abaixo de 25%.", "triturada": 300, "colheita": 2},
+  {"nome": "Chople", "tipo": "fighting", "sabor": "apimentado", "raridade": "incomum", "efeito": "Cura um Move que esteja Disabled.", "triturada": 300, "colheita": 2},
+  {"nome": "Tamato", "tipo": "psychic", "sabor": "apimentado", "raridade": "incomum", "efeito": "Aumenta a chance de Evasão em +20% quando o HP está abaixo de 25%.", "triturada": 300, "colheita": 2},
+  {"nome": "Pamtre", "tipo": "ice", "sabor": "seco", "raridade": "incomum", "efeito": "Transforma todos os movimentos Beauty Style em STAB após consumida.", "triturada": 300, "colheita": 2},
+  {"nome": "Yache", "tipo": "bug", "sabor": "seco", "raridade": "incomum", "efeito": "Diminui 50% do dano recebido de um movimento Sound-based.", "triturada": 300, "colheita": 2},
+  {"nome": "Belue", "tipo": "rock", "sabor": "seco", "raridade": "incomum", "efeito": "Se oferecido a um pokémon selvagem, confere +50 HAPP se o pokémon for water, grass ou bug.", "triturada": 300, "colheita": 2},
+  {"nome": "Apicot", "tipo": "ground", "sabor": "seco", "raridade": "incomum", "efeito": "Aumenta o sATK em +1 quando o HP está abaixo de 25%.", "triturada": 300, "colheita": 2},
+  {"nome": "Oran", "tipo": "poison", "sabor": "seco", "raridade": "incomum", "efeito": "Cura um Pokémon de Heal Block quando consumida.", "triturada": 300, "colheita": 2},
+  {"nome": "Ganlon", "tipo": "flying", "sabor": "seco", "raridade": "incomum", "efeito": "Aumenta a precisão de um movimento em +20% quando o HP está abaixo de 25%.", "triturada": 300, "colheita": 2},
+  {"nome": "Passho", "tipo": "ground", "sabor": "azedo", "raridade": "incomum", "efeito": "Transforma todos os movimentos Tough Style em STAB após consumida.", "triturada": 300, "colheita": 2},
+  {"nome": "Chilan", "tipo": "normal", "sabor": "azedo", "raridade": "incomum", "efeito": "Diminui 50% do dano recebido de um movimento Normal-type.", "triturada": 300, "colheita": 2},
+  {"nome": "Nomel", "tipo": "dragon", "sabor": "azedo", "raridade": "incomum", "efeito": "Se oferecido a um pokémon selvagem, confere +50 HAPP se o pokémon for normal, flying ou ghost.", "triturada": 300, "colheita": 2},
+  {"nome": "Micle", "tipo": "rock", "sabor": "azedo", "raridade": "incomum", "efeito": "Aumenta o DEF em +1 quando o HP está abaixo de 25%.", "triturada": 300, "colheita": 2},
+  {"nome": "Sitrus", "tipo": "grass", "sabor": "azedo", "raridade": "incomum", "efeito": "Impede Leech Seed de afetar o Pokémon quando consumida.", "triturada": 300, "colheita": 2},
+  {"nome": "Pinap", "tipo": "dark", "sabor": "azedo", "raridade": "incomum", "efeito": "Aumenta a chance de sucesso da habilidade Pick Up em +20% após consumida.", "triturada": 300, "colheita": 2},
+  {"nome": "Rabuta", "tipo": "ghost", "sabor": "amargo", "raridade": "incomum", "efeito": "Transforma todos os movimentos Clever Style em STAB após consumida.", "triturada": 300, "colheita": 2},
+  {"nome": "Babiri", "tipo": "steel", "sabor": "amargo", "raridade": "incomum", "efeito": "Diminui 50% do dano recebido de um movimento superefetivo Steel-type.", "triturada": 300, "colheita": 2},
+  {"nome": "Wepear", "tipo": "psychic", "sabor": "amargo", "raridade": "incomum", "efeito": "Se oferecido a um pokémon selvagem, confere +50 HAPP se o pokémon for electric, ground ou dragon.", "triturada": 300, "colheita": 2},
+  {"nome": "Salac", "tipo": "psychic", "sabor": "amargo", "raridade": "incomum", "efeito": "Aumenta o sDEF em +1 quando o HP está abaixo de 25%.", "triturada": 300, "colheita": 2},
+  {"nome": "Durin", "tipo": "steel", "sabor": "amargo", "raridade": "incomum", "efeito": "Cura Infatuated quando consumida.", "triturada": 300, "colheita": 2},
+  {"nome": "Lum", "tipo": "grass", "sabor": "amargo", "raridade": "incomum", "efeito": "Dobra a recuperação de movimentos de cura e absorb quando o HP está abaixo de 50%.", "triturada": 300, "colheita": 2},
+  {"nome": "Watmel", "tipo": "normal", "sabor": "doce", "raridade": "incomum", "efeito": "Transforma todos os movimentos Cute Style em STAB após consumida.", "triturada": 300, "colheita": 2},
+  {"nome": "Magost", "tipo": "poison", "sabor": "doce", "raridade": "incomum", "efeito": "Diminui 50% do dano recebido de um movimento crítico.", "triturada": 300, "colheita": 2},
+  {"nome": "Nanab", "tipo": "water", "sabor": "doce", "raridade": "incomum", "efeito": "Se oferecido a um pokémon selvagem, confere +50 HAPP se o pokémon for fire, fighting, dark ou rock.", "triturada": 300, "colheita": 2},
+  {"nome": "Petaya", "tipo": "electric", "sabor": "doce", "raridade": "incomum", "efeito": "Aumenta o SPEED em +1 quando o HP está abaixo de 25%.", "triturada": 300, "colheita": 2},
+  {"nome": "Persim", "tipo": "rock", "sabor": "doce", "raridade": "incomum", "efeito": "Cura Confusion quando consumida.", "triturada": 300, "colheita": 2},
+  {"nome": "Lansat", "tipo": "fighting", "sabor": "doce", "raridade": "incomum", "efeito": "Aumenta a chance de Critical Hit em +20% quando o HP está abaixo de 25%.", "triturada": 300, "colheita": 2},
+  {"nome": "Custap", "tipo": "ghost", "sabor": "apimentado", "raridade": "rara", "efeito": "Faz o pokémon portador sempre agir primeiro (Priority) quando o HP máximo está abaixo de 25%.", "triturada": 700, "colheita": 1},
+  {"nome": "Rowap", "tipo": "dark", "sabor": "seco", "raridade": "rara", "efeito": "Causa 1/8 de dano no HP máx de um pokémon que atingir o portador da Berry com Special Move.", "triturada": 700, "colheita": 1},
+  {"nome": "Jaboca", "tipo": "dragon", "sabor": "azedo", "raridade": "rara", "efeito": "Causa 1/8 de dano no HP máx de um pokémon que atingir o portador da Berry com Physical Move.", "triturada": 700, "colheita": 1},
+  {"nome": "Maranga", "tipo": "fire", "sabor": "amargo", "raridade": "rara", "efeito": "Aumenta a sDEF em +2 se o pokémon for atingido por um Special Move.", "triturada": 700, "colheita": 1},
+  {"nome": "Kee", "tipo": "steel", "sabor": "doce", "raridade": "rara", "efeito": "Aumenta a DEF em +2 se o pokémon for atingido por um Physical Move.", "triturada": 700, "colheita": 1},
+  {"nome": "Starf", "tipo": "grass", "sabor": null, "raridade": "bonus", "efeito": "Aumenta um Stat aleatório em +6 quando o HP está abaixo de 25%.", "triturada": 1000, "colheita": 1},
+  {"nome": "Enigma", "tipo": "bug", "sabor": null, "raridade": "bonus", "efeito": "Restaura 25% do HP máximo do portador se for atingido por um movimento superefetivo.", "triturada": 1000, "colheita": 1},
+  {"nome": "Eggant", "tipo": "water", "sabor": "seco", "raridade": "rarissima", "efeito": "Torna o pokémon imune a ability adversário por duas rodadas.", "triturada": 1000, "colheita": 1},
+  {"nome": "Strib", "tipo": "electric", "sabor": "amargo", "raridade": "rarissima", "efeito": "Reseta os usos de movimentos de defesa absoluta ao início depois de consumida.", "triturada": 1000, "colheita": 1},
+  {"nome": "Touga", "tipo": "normal", "sabor": "apimentado", "raridade": "rarissima", "efeito": "Impede a mitigação do movimento seguinte ao consumo.", "triturada": 1000, "colheita": 1},
+  {"nome": "Drash", "tipo": "fairy", "sabor": "doce", "raridade": "rarissima", "efeito": "Se a soma dos STATS for no máximo 250, aumenta todos os stats em +30 por uma batalha ou evento completo.", "triturada": 1000, "colheita": 1},
+  {"nome": "Pumkin", "tipo": "ghost", "sabor": "azedo", "raridade": "rarissima", "efeito": "Cura Curse quando consumida.", "triturada": 1000, "colheita": 1}
 ]

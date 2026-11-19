@@ -1820,6 +1820,18 @@
     "updated_at": "2026-07-04T02:25:36.866+00:00"
   },
   {
+    "name": "clay-waltz",
+    "descricao": "O usuário gira apoiado numa perna só, arrastando as orelhas pelo solo e levantando uma onda de argila e poeira encantada. A dança abala a terra ao redor, atinge o alvo com um impacto de barro compactado e tem 50% de chance de aumentar a Speed do usuário em 1 estágio. É um movimento de dança.",
+    "type": "ground",
+    "type2": null,
+    "damage_class": "special",
+    "power": 80,
+    "accuracy": 100,
+    "contest_style": "beautify",
+    "approved": false,
+    "updated_at": "2026-11-18T23:20:13.095Z"
+  },
+  {
     "name": "clear-smog",
     "descricao": "Removes all of the target’s stat modifiers.",
     "type": "poison",
@@ -5990,6 +6002,18 @@
     "is_tm": false,
     "tm_number": null,
     "updated_at": "2026-07-04T02:20:45.478+00:00"
+  },
+  {
+    "name": "leaf-mortar",
+    "descricao": "O usuário concentra energia verde no canhão de folhas enroladas sobre a carapaça, comprimindo-a até o interior da boca da arma brilhar com intensidade. Em seguida, dispara de uma só vez um projétil denso de folhas prensadas, que explode ao atingir o alvo e espalha estilhaços de folhas cortantes. O impacto abala as defesas do alvo, com 20% de chance de reduzir sua Sp. Defense em 1 estágio.",
+    "type": "grass",
+    "type2": null,
+    "damage_class": "special",
+    "power": 90,
+    "accuracy": 100,
+    "contest_style": "tough",
+    "approved": false,
+    "updated_at": "2026-11-18T22:35:47.823Z"
   },
   {
     "name": "leaf-storm",
@@ -13228,6 +13252,18 @@
     "is_tm": false,
     "tm_number": null,
     "updated_at": "2026-07-04T02:20:46.52+00:00"
+  },
+  {
+    "name": "wyrmbreaker",
+    "descricao": "O usuário concentra toda a sua força no punho e golpeia o alvo de frente, num golpe feito para derrubar adversários enormes. O movimento é super efetivo contra Pokémon do tipo Dragon e é um movimento de soco.",
+    "type": "fighting",
+    "type2": null,
+    "damage_class": "physical",
+    "power": 80,
+    "accuracy": 100,
+    "contest_style": "tough",
+    "approved": false,
+    "updated_at": "2026-11-19T00:29:18.390Z"
   },
   {
     "name": "x-scissor",

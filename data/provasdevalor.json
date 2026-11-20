@@ -1,0 +1,33 @@
+{
+  "intro": {
+    "titulo": "Provas de Valor",
+    "paragrafos": [
+      "As Provas de Valor representam as principais conquistas de um personagem ao longo de sua jornada em Nendo. Por meio de diferentes DESAFIOS, os personagens têm a oportunidade de demonstrar suas habilidades, dedicação e conhecimento em suas respectivas áreas de atuação.",
+      "Cada modalidade possui uma instituição responsável por avaliar e reconhecer essas conquistas, oferecendo três caminhos base distintos: os GYMs, voltados aos Especialistas; as Houses, destinadas aos Coordenadores; e as Stations, dedicadas aos Criadores.",
+      "Independentemente do caminho escolhido, cada conquista representa uma demonstração de experiência e competência, permitindo que os personagens construam sua própria trajetória e alcancem reconhecimento em Nendo."
+    ]
+  },
+  "abas": [
+    {
+      "id": "gyms",
+      "titulo": "GYMS",
+      "publico": "Especialistas",
+      "descricao": ["Os GYMs avaliam e reconhecem as conquistas dos Especialistas."],
+      "itens": []
+    },
+    {
+      "id": "houses",
+      "titulo": "HOUSES",
+      "publico": "Coordenadores",
+      "descricao": ["As Houses avaliam e reconhecem as conquistas dos Coordenadores."],
+      "itens": []
+    },
+    {
+      "id": "stations",
+      "titulo": "STATIONS",
+      "publico": "Criadores",
+      "descricao": ["As Stations avaliam e reconhecem as conquistas dos Criadores."],
+      "itens": []
+    }
+  ]
+}

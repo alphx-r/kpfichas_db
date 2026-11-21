@@ -15650,19 +15650,27 @@
   {
     "name": "Mega Shard",
     "category": "Alpha Items",
-    "item_desc": "EVENTO. Um fragmento misterioso que possui a essência da Mega Evolução. Ao reunir uma certa quantidade de fragmentos, é possível forjar uma mega pedra aleatória na Rush Cave (150) ou trocar os shards por uma mega pedra na Mega Store (300) em Wiltshire Town.",
+    "item_desc": "EVENTO. Um fragmento misterioso que possui a essência da Mega Evolução. Ao reunir uma certa quantidade de fragmentos, é possível forjar uma mega pedra aleatória na Rush Cave (150) ou trocar os shards por uma mega pedra na Mega Store (300) em Wiltshire Town. 500 Mega Shards desbloqueiam a Mega Evolução no Alpha Pokétch.",
     "sprite": "/sprites/items/alpha-items/mega-shard.png?v=fef7696",
     "flags": {
       "evento": {
         "enabled": true
       },
       "pickup": {
-        "enabled": false
+        "enabled": false,
+        "numeros": []
       },
       "pokemart": {
         "enabled": false
       },
       "consumivel": {
+        "enabled": false
+      },
+      "conquista": {
+        "enabled": false,
+        "tipo": "insignia"
+      },
+      "venda": {
         "enabled": false
       }
     },
@@ -16693,7 +16701,7 @@
   {
     "name": "Native Shard",
     "category": "Alpha Items",
-    "item_desc": "EVENTO. Um fragmento misterioso que possui a essência das Native Jewel. Ao reunir uma certa quantidade de fragmentos (100) é possível forjar uma Native Jewel a depender da sua localização em Nendo.",
+    "item_desc": "EVENTO. Um fragmento misterioso que possui a essência das Native Jewel. Ao reunir uma certa quantidade de fragmentos (100) é possível forjar uma Native Jewel a depender da sua localização em Nendo. 300 Native Shards desbloqueiam a Native Force no Alpha Pokétch.",
     "sprite": "/sprites/items/alpha-items/native-shard.png?v=1cd84eb",
     "flags": {
       "evento": {
@@ -25550,19 +25558,27 @@
   {
     "name": "Tera Shard",
     "category": "Alpha Items",
-    "item_desc": "EVENTO. Um fragmento misterioso que possui a essência Terastal. Ao reunir uma certa quantidade de fragmentos (50) é possível produzir uma sopa capaz de ativar o tera-type em um Pokémon ou trocar os tera-type por um dos 20 tipos existentes no restaurante Terastal Terrace (100).",
+    "item_desc": "EVENTO. Um fragmento misterioso que possui a essência Terastal. Ao reunir uma certa quantidade de fragmentos (50) é possível produzir uma sopa capaz de ativar o tera-type em um Pokémon ou trocar os tera-type por um dos 20 tipos existentes no restaurante Terastal Terrace (100). 300 Tera Shards desbloqueiam a Terastalização no Alpha Pokétch.",
     "sprite": "/sprites/items/alpha-items/tera-shard.png?v=6383ecb",
     "flags": {
       "evento": {
         "enabled": true
       },
       "pickup": {
-        "enabled": false
+        "enabled": false,
+        "numeros": []
       },
       "pokemart": {
         "enabled": false
       },
       "consumivel": {
+        "enabled": false
+      },
+      "conquista": {
+        "enabled": false,
+        "tipo": "insignia"
+      },
+      "venda": {
         "enabled": false
       }
     },
@@ -31483,7 +31499,7 @@
   {
     "name": "Z Shard",
     "category": "Alpha Items",
-    "item_desc": "EVENTO. Um fragmento misterioso que possui a essência dos Z-Moves. Ao reunir uma certa quantidade de fragmentos (100) é possível realizar uma ritual para as divindades de Alola na Aurora Beach, onde se é formado um Z-Crystal aleatório.",
+    "item_desc": "EVENTO. Um fragmento misterioso que possui a essência dos Z-Moves. Ao reunir uma certa quantidade de fragmentos (100) é possível realizar uma ritual para as divindades de Alola na Aurora Beach, onde se é formado um Z-Crystal aleatório. 300 Z Shards desbloqueiam o Z Move no Alpha Pokétch.",
     "sprite": "/sprites/items/alpha-items/z-shard.png?v=8622b23",
     "flags": {
       "evento": {

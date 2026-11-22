@@ -4870,6 +4870,18 @@
     "updated_at": "2026-07-04T02:20:35.6+00:00"
   },
   {
+    "name": "gum-trap",
+    "descricao": "O usuário cospe uma bola de chiclete que se espalha sobre o alvo, grudando seus movimentos e o deixando paralisado. O golpe atinge também Pokémon do tipo Ground.",
+    "type": "scent",
+    "type2": null,
+    "damage_class": "status",
+    "power": null,
+    "accuracy": 90,
+    "contest_style": "cute",
+    "approved": false,
+    "updated_at": "2026-11-22T15:08:43.758Z"
+  },
+  {
     "name": "gunk-shot",
     "descricao": "Has a chance to poison the target.",
     "type": "poison",

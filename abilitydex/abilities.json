@@ -41,7 +41,8 @@
   },
   {
     "name": "aroma-veil",
-    "ab_desc": "Evita que os Pokémon com esta habilidade e seus aliados (incluindo aliados não adjacentes) sejam afetados por Taunt, Torment, Encore, Disable, Cursed Body, Heal Block e Infatuation."
+    "ab_desc": "Evita que os Pokémon com esta habilidade e seus aliados (incluindo aliados não adjacentes) sejam afetados por Taunt, Torment, Encore, Disable, Cursed Body, Heal Block, Infatuation e Confusion.",
+    "approved": true
   },
   {
     "name": "aura-break",
@@ -303,7 +304,8 @@
   },
   {
     "name": "flower-veil",
-    "ab_desc": "Protects friendly Grass Pokémon from having their stats lowered by other Pokémon."
+    "ab_desc": "Impede que aliados dos tipo Scent e Grass tenham atributos reduzidos por outros Pokémon ou recebam condições de status.",
+    "approved": true
   },
   {
     "name": "fluffy",
@@ -1089,7 +1091,8 @@
   },
   {
     "name": "stench",
-    "ab_desc": "Has a 10% chance of making target Pokémon flinch with each hit."
+    "ab_desc": "Ao atacar, tem 10% de chance de fazer o alvo recuar (flinch). A chance sobe para 20% quando o golpe usado é do tipo Scent. Não acumula com King's Rock.",
+    "approved": true
   },
   {
     "name": "sticky-hold",

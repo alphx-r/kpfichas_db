@@ -462,6 +462,18 @@
     "updated_at": "2026-07-04T02:25:43.818+00:00"
   },
   {
+    "name": "aroma-bath",
+    "descricao": "Recupera 50% do HP máximo. Com chuva ativa, recupera apenas 25%. O Pokémon se envolve numa nuvem de aroma terapêutico que alivia os ferimentos. Sob chuva, a água dilui o aroma e o efeito enfraquece.",
+    "type": "scent",
+    "type2": null,
+    "damage_class": "status",
+    "power": null,
+    "accuracy": null,
+    "contest_style": "beautify",
+    "approved": false,
+    "updated_at": "2026-11-22T14:12:34.222Z"
+  },
+  {
     "name": "aromatherapy",
     "descricao": "Cures the entire party of major status effects.",
     "type": "grass",
@@ -488,6 +500,18 @@
     "is_tm": false,
     "tm_number": null,
     "updated_at": "2026-07-04T02:25:30.259+00:00"
+  },
+  {
+    "name": "aromatic-shield",
+    "descricao": "Protege o usuário de todos os golpes neste turno e falha se usado em turnos seguidos. Depois disso, o usuário fica imune a condições de status (veneno, paralisia, queimadura, sono, congelamento) por 3 turnos (+4 Prioridade). O Pokémon concentra seus odores numa barreira densa e visível que repele os golpes do turno. Ao se desfazer, o aroma continua impregnado no corpo por alguns turnos, afastando venenos, queimaduras e outras condições.",
+    "type": "scent",
+    "type2": null,
+    "damage_class": "status",
+    "power": null,
+    "accuracy": null,
+    "contest_style": "cute",
+    "approved": false,
+    "updated_at": "2026-11-22T13:58:54.266Z"
   },
   {
     "name": "assist",
@@ -1846,6 +1870,18 @@
     "updated_at": "2026-07-04T02:20:50.561+00:00"
   },
   {
+    "name": "clear-spikes",
+    "descricao": "Remove as armadilhas de entrada dos dois lados do campo (Spikes, Toxic Spikes, Stealth Rock, Sticky Web) e encerra o clima e o terreno ativos, incluindo o Sunset. Não remove Reflect, Light Screen e proteções semelhantes. O Pokémon libera uma onda de aroma purificante, como álcool espalhado pelo ambiente, que dissolve armadilhas e dissipa o clima e o terreno. A limpeza atinge os dois lados do campo, sem distinção.",
+    "type": "scent",
+    "type2": null,
+    "damage_class": "status",
+    "power": null,
+    "accuracy": null,
+    "contest_style": "cool",
+    "approved": false,
+    "updated_at": "2026-11-22T13:57:14.474Z"
+  },
+  {
     "name": "close-combat",
     "descricao": "Lowers the user’s Defense and Special Defense by one stage after inflicting damage.",
     "type": "fighting",
@@ -1858,6 +1894,18 @@
     "is_tm": true,
     "tm_number": 167,
     "updated_at": "2026-10-12T04:55:16.944+00:00"
+  },
+  {
+    "name": "clove-barrage",
+    "descricao": "Atinge de 2 a 5 vezes. Pequenos cravos aromáticos brotam do corpo do Pokémon e são disparados em sequência, cravando-se no alvo um após o outro.",
+    "type": "scent",
+    "type2": null,
+    "damage_class": "physical",
+    "power": 25,
+    "accuracy": 100,
+    "contest_style": "cool",
+    "approved": false,
+    "updated_at": "2026-11-22T14:02:48.566Z"
   },
   {
     "name": "coaching",
@@ -3358,6 +3406,30 @@
     "updated_at": "2026-07-04T02:25:40.931+00:00"
   },
   {
+    "name": "essence-burst",
+    "descricao": "Reduz o Sp. Atk do usuário em 2 estágios. O Pokémo reúne toda a essência que possui e a libera numa explosão aromática devastadora. Depois disso, suas glândulas ficam esgotadas por um tempo.",
+    "type": "scent",
+    "type2": null,
+    "damage_class": "special",
+    "power": 130,
+    "accuracy": 90,
+    "contest_style": "beautify",
+    "approved": false,
+    "updated_at": "2026-11-22T14:09:12.146Z"
+  },
+  {
+    "name": "essence-siphon",
+    "descricao": "O usuário recupera 50% do dano causado. O Pokémon inspira fundo e puxa para si a essência aromática do alvo, absorvendo parte de sua energia.",
+    "type": "scent",
+    "type2": null,
+    "damage_class": "special",
+    "power": 75,
+    "accuracy": null,
+    "contest_style": "clever",
+    "approved": false,
+    "updated_at": "2026-11-22T14:06:29.422Z"
+  },
+  {
     "name": "eternabeam",
     "descricao": "User foregoes its next turn to recharge.",
     "type": "dragon",
@@ -3594,6 +3666,20 @@
     "is_tm": false,
     "tm_number": null,
     "updated_at": "2026-07-04T02:20:53.885+00:00"
+  },
+  {
+    "name": "fetid-fang",
+    "descricao": "10% de chance de flinch e 10% de chance de confusão. Fortalecido por Strong Jaw. O Pokémon morde o alvo com presas impregnadas de um odor azedo. O cheiro sobe direto ao nariz da vítima, que pode recuar ou ficar confusa.",
+    "type": "scent",
+    "type2": null,
+    "damage_class": "physical",
+    "power": 65,
+    "accuracy": 95,
+    "contest_style": "tough",
+    "approved": true,
+    "updated_at": "2026-11-22T14:03:46.334Z",
+    "is_tm": true,
+    "tm_number": 233
   },
   {
     "name": "fickle-beam",
@@ -3918,6 +4004,18 @@
     "updated_at": "2026-07-04T02:20:42.227+00:00"
   },
   {
+    "name": "fleeting-whiff",
+    "descricao": "Depois de atacar, o usuário é trocado por outro Pokémon do time. Uma rajada de cheiro atinge o alvo e, aproveitando a distração, o Pokémon recua para a pokébola, dando lugar a um companheiro.",
+    "type": "scent",
+    "type2": null,
+    "damage_class": "special",
+    "power": 70,
+    "accuracy": 100,
+    "contest_style": "cute",
+    "approved": false,
+    "updated_at": "2026-11-22T14:07:27.454Z"
+  },
+  {
     "name": "fleur-cannon",
     "descricao": "Lowers the user’s Special Attack by two stages after inflicting damage.",
     "type": "fairy",
@@ -4154,6 +4252,34 @@
     "is_tm": true,
     "tm_number": 62,
     "updated_at": "2026-10-12T04:55:16.944+00:00"
+  },
+  {
+    "name": "fragrance-wave",
+    "descricao": "10% de chance de confundir cada alvo. O Pokémon libera uma onda de fragrância que se espalha por todo o lado adversário, deixando tonto quem a respira.",
+    "type": "scent",
+    "type2": null,
+    "damage_class": "special",
+    "power": 80,
+    "accuracy": 100,
+    "contest_style": "beautify",
+    "approved": true,
+    "updated_at": "2026-11-22T14:05:53.847Z",
+    "is_tm": true,
+    "tm_number": 235
+  },
+  {
+    "name": "fragrant-puff",
+    "descricao": "30% de chance de reduzir a precisão do alvo em 1 estágio. Uma pequena baforada perfumada atinge o rosto do alvo. O cheiro faz os olhos lacrimejarem e atrapalha a mira.",
+    "type": "scent",
+    "type2": null,
+    "damage_class": "special",
+    "power": 40,
+    "accuracy": 100,
+    "contest_style": "cute",
+    "approved": true,
+    "updated_at": "2026-11-22T14:05:02.599Z",
+    "is_tm": true,
+    "tm_number": 232
   },
   {
     "name": "freeze-dry",
@@ -5584,6 +5710,18 @@
     "updated_at": "2026-10-12T04:55:16.944+00:00"
   },
   {
+    "name": "incense-meditation",
+    "descricao": "Aumenta em 1 estágio Sp. Atk e Sp. Def do usuário. Cura a confusão. O Pokémon se cerca de um aroma de incenso, respira profundamente e entra em estado de foco. A mente clareia e o espírito se fortalece.",
+    "type": "scent",
+    "type2": null,
+    "damage_class": "status",
+    "power": null,
+    "accuracy": null,
+    "contest_style": "clever",
+    "approved": false,
+    "updated_at": "2026-11-22T14:10:50.973Z"
+  },
+  {
     "name": "incinerate",
     "descricao": "Destroys the target’s held berry.",
     "type": "fire",
@@ -5988,6 +6126,18 @@
     "is_tm": false,
     "tm_number": null,
     "updated_at": "2026-07-04T02:20:48.562+00:00"
+  },
+  {
+    "name": "lavender-mist",
+    "descricao": "Coloca o alvo para dormir. Não é um golpe de pó, então Grass e Overcoat não bloqueiam. Uma névoa lilás e suave envolve o alvo. O aroma de lavanda relaxa seus músculos até que adormeça.",
+    "type": "scent",
+    "type2": null,
+    "damage_class": "status",
+    "power": null,
+    "accuracy": 70,
+    "contest_style": "beautify",
+    "approved": false,
+    "updated_at": "2026-11-22T14:10:00.103Z"
   },
   {
     "name": "leaf-blade",
@@ -7416,6 +7566,18 @@
     "updated_at": "2026-07-04T02:25:35.297+00:00"
   },
   {
+    "name": "musk-charge",
+    "descricao": "O usuário recebe de recuo 1/3 do dano causado. O Pokémon se cobre de almíscar concentrado e investe com todo o corpo. O impacto é brutal, mas o cheiro intenso e o choque também machucam o próprio usuário.",
+    "type": "scent",
+    "type2": null,
+    "damage_class": "physical",
+    "power": 120,
+    "accuracy": 100,
+    "contest_style": "tough",
+    "approved": false,
+    "updated_at": "2026-11-22T14:04:20.417Z"
+  },
+  {
     "name": "mystical-fire",
     "descricao": "Has a chance to lower the target’s Special Attack by one stage.",
     "type": "fire",
@@ -7918,6 +8080,20 @@
     "is_tm": false,
     "tm_number": null,
     "updated_at": "2026-07-04T02:20:36.962+00:00"
+  },
+  {
+    "name": "perfume-spray",
+    "descricao": "Reduz em 1 estágio o Attack, o Sp. Atk e o Speed dos alvos. O Pokémon borrifa uma névoa de perfume cítrico e penetrante por todo o campo. O cheiro arde nas narinas dos adversários, que perdem força e reflexos.",
+    "type": "scent",
+    "type2": null,
+    "damage_class": "status",
+    "power": null,
+    "accuracy": 85,
+    "contest_style": "clever",
+    "approved": true,
+    "updated_at": "2026-11-22T13:57:30.239Z",
+    "is_tm": false,
+    "tm_number": null
   },
   {
     "name": "perish-song",
@@ -9010,6 +9186,18 @@
     "updated_at": "2026-07-04T02:20:53.283+00:00"
   },
   {
+    "name": "repellent",
+    "descricao": "-6 de Prioridade. Força o alvo a ser trocado. Não é bloqueado por Soundproof, mas Suction Cups e Ingrain bloqueiam. O Pokémon libera um odor tão repulsivo que o adversário não suporta permanecer em campo e é forçado a recuar.",
+    "type": "scent",
+    "type2": null,
+    "damage_class": "status",
+    "power": null,
+    "accuracy": 100,
+    "contest_style": "cool",
+    "approved": false,
+    "updated_at": "2026-11-22T14:13:32.114Z"
+  },
+  {
     "name": "rest",
     "descricao": "User sleeps for two turns, completely healing itself.",
     "type": "psychic",
@@ -9554,6 +9742,18 @@
     "is_tm": true,
     "tm_number": 6,
     "updated_at": "2026-10-12T04:55:16.944+00:00"
+  },
+  {
+    "name": "scent-mark",
+    "descricao": "Aumenta em 1 estágio o Atk e Def do usuário. O Pokémon espalha seu cheiro pelo terreno ao redor, marcando território. Sentindo-se em casa, ganha força e firmeza.",
+    "type": "scent",
+    "type2": null,
+    "damage_class": "status",
+    "power": null,
+    "accuracy": null,
+    "contest_style": "tough",
+    "approved": false,
+    "updated_at": "2026-11-22T14:11:36.538Z"
   },
   {
     "name": "scorching-sands",
@@ -10578,6 +10778,18 @@
     "updated_at": "2026-07-04T02:20:43.17+00:00"
   },
   {
+    "name": "smelly-fragrance",
+    "descricao": "Sempre causa acerto crítico. Os piores odores do corpo se tornam visíveis e são lançados em linha contra o alvo, atingindo direto seus pontos mais sensíveis. Nenhuma barreira ou postura defensiva impede o golpe certeiro.",
+    "type": "scent",
+    "type2": null,
+    "damage_class": "special",
+    "power": 60,
+    "accuracy": 90,
+    "contest_style": "tough",
+    "approved": false,
+    "updated_at": "2026-11-22T14:00:07.607Z"
+  },
+  {
     "name": "smog",
     "descricao": "Has a chance to poison the target.",
     "type": "poison",
@@ -10702,6 +10914,18 @@
     "is_tm": false,
     "tm_number": null,
     "updated_at": "2026-07-04T02:20:50.516+00:00"
+  },
+  {
+    "name": "sobering-whiff",
+    "descricao": "Zera todas as mudanças de atributo do alvo. Um cheiro forte e acre, como sais de cheiro, atinge o alvo em cheio e o arranca de qualquer euforia ou abatimento, devolvendo-o ao estado normal.",
+    "type": "scent",
+    "type2": null,
+    "damage_class": "special",
+    "power": 50,
+    "accuracy": null,
+    "contest_style": "clever",
+    "approved": false,
+    "updated_at": "2026-11-22T14:08:17.438Z"
   },
   {
     "name": "soft-boiled",
@@ -11181,17 +11405,17 @@
   },
   {
     "name": "stench-punch",
-    "descricao": "Acumulando fragrâncias ofensivas em seus punhos, o ​usuário atinge o adversário. Tem 40% de chance de atordoar o alvo e 60% de chance de causar paralisia.",
+    "descricao": "20% de chance de deixar o alvo confuso. O punho é envolto numa crosta de odor fétido antes do soco. Além do impacto, o cheiro impregnado pode deixar o alvo tonto e desorientado.",
     "type": "scent",
-    "type2": "",
+    "type2": null,
     "damage_class": "physical",
-    "power": 100,
+    "power": 80,
     "accuracy": 100,
     "approved": true,
-    "contest_style": "cool",
-    "is_tm": false,
-    "tm_number": null,
-    "updated_at": "2026-07-18T21:36:00.872+00:00"
+    "contest_style": "tough",
+    "is_tm": true,
+    "tm_number": 234,
+    "updated_at": "2026-11-22T14:01:10.494Z"
   },
   {
     "name": "sticky-web",
@@ -11710,6 +11934,18 @@
     "is_tm": false,
     "tm_number": null,
     "updated_at": "2026-07-04T02:20:41.635+00:00"
+  },
+  {
+    "name": "sweet-sho",
+    "descricao": "20% de chance de fazer o alvo recuar (flinch). O aroma acumulado no corpo é condensado em flechas adocicadas e disparado contra o alvo. O impacto repentino do cheiro pode fazê-lo hesitar.",
+    "type": "scent",
+    "type2": null,
+    "damage_class": "special",
+    "power": 80,
+    "accuracy": 100,
+    "contest_style": "cute",
+    "approved": false,
+    "updated_at": "2026-11-22T13:58:06.230Z"
   },
   {
     "name": "sweet-shot",
@@ -12872,6 +13108,18 @@
     "is_tm": false,
     "tm_number": null,
     "updated_at": "2026-07-04T02:20:45.776+00:00"
+  },
+  {
+    "name": "waft-strike",
+    "descricao": "O Pokémon deixa uma lufada do próprio aroma empurrá-lo à frente e golpeia antes que o alvo consiga reagir.",
+    "type": "scent",
+    "type2": null,
+    "damage_class": "physical",
+    "power": 40,
+    "accuracy": 100,
+    "contest_style": "cool",
+    "approved": false,
+    "updated_at": "2026-11-22T14:02:12.467Z"
   },
   {
     "name": "wake-up-slap",

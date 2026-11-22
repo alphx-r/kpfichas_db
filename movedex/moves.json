@@ -8396,6 +8396,18 @@
     "updated_at": "2026-07-04T02:20:41.456+00:00"
   },
   {
+    "name": "prism-ram",
+    "descricao": "O usuário baixa a cabeça e investe contra o alvo com os chifres envolvidos em luz refratada, deixando um rastro de cores no ar. O impacto é seguido por um clarão que pode deixar o alvo tonto, com 30% de chance de fazê-lo vacilar. Sob o clima Sunset, a chance de vacilar sobe para 50%.",
+    "type": "light",
+    "type2": null,
+    "damage_class": "physical",
+    "power": 85,
+    "accuracy": 100,
+    "contest_style": "tough",
+    "approved": false,
+    "updated_at": "2026-11-20T23:29:17.116Z"
+  },
+  {
     "name": "prismatic-laser",
     "descricao": "User foregoes its next turn to recharge.",
     "type": "psychic",

@@ -113,6 +113,11 @@
     "ab_desc": "Prevents stats from being lowered by other Pokémon."
   },
   {
+    "name": "clinging-odor",
+    "ab_desc": "Quem faz contato com o Pokémon tem 30% de chance de ficar confuso. O atacante sai impregnado de um cheiro que deixa a cabeça girando.",
+    "approved": true
+  },
+  {
     "name": "cloud-nine",
     "ab_desc": "Negates all effects of weather, but does not prevent the weather itself."
   },

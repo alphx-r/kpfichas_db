@@ -42,10 +42,10 @@
     "updated_at": "2026-07-29T14:01:28.434+00:00"
   },
   {
-    "name": "abyssal-maelstrom",
+    "name": "abyssal-tempest",
     "descricao": "Causa dano e possui 30% de chance de reduzir a Speed do alvo em um estágio. Se o clima estiver Rain ou Tempestade, o dano causado por este movimento ignora os bônus de Defesa Especial do alvo.",
     "type": "water",
-    "type2": "",
+    "type2": null,
     "damage_class": "special",
     "power": 90,
     "accuracy": 95,
@@ -53,7 +53,7 @@
     "contest_style": "tough",
     "is_tm": false,
     "tm_number": null,
-    "updated_at": "2026-07-18T05:06:10.63+00:00"
+    "updated_at": "2026-11-27T19:35:09.316Z"
   },
   {
     "name": "accelerock",

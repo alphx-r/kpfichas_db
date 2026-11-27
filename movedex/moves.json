@@ -43,7 +43,7 @@
   },
   {
     "name": "abyssal-tempest",
-    "descricao": "Causa dano e possui 30% de chance de reduzir a Speed do alvo em um estágio. Se o clima estiver Rain ou Tempestade, o dano causado por este movimento ignora os bônus de Defesa Especial do alvo.",
+    "descricao": "Causa dano e tem 30% de chance de reduzir a Speed do alvo em 1 estágio. Se o clima estiver Rain ou Tempestade, o dano causado por este movimento ignora os bônus de Sp. Defense do alvo.",
     "type": "water",
     "type2": null,
     "damage_class": "special",
@@ -53,7 +53,7 @@
     "contest_style": "tough",
     "is_tm": false,
     "tm_number": null,
-    "updated_at": "2026-11-27T19:35:09.316Z"
+    "updated_at": "2026-11-27T20:12:02.187Z"
   },
   {
     "name": "accelerock",

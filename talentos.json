@@ -2,59 +2,59 @@
   "talentos": [
     {
       "nome": "Sincronia",
-      "descricao": "Coordena perfeitamente com seus Pokémon a todo momento, assim um Pokémon recebe UMA AÇÃO EXTRA NA RODADA por executar movimentos de maneira eficiente, seu tempo passa a ser bem aproveitado."
+      "descricao": "Coordena perfeitamente com seus Pokémon a todo momento, assim um Pokémon recebe **UMA AÇÃO EXTRA NA RODADA** por executar movimentos de maneira eficiente, seu tempo passa a ser bem aproveitado."
     },
     {
       "nome": "Superação",
-      "descricao": "Quando o pokémon estiver com 25% ou menos de seu HP máximo, o treinador o incentiva com palavras e o movimento seguinte do Pokémon será um ACERTO CRÍTICO que causará DANO NEUTRO (x1), ignorando imunidades ou resistências adversárias."
+      "descricao": "Quando o pokémon estiver com 25% ou menos de seu HP máximo, o treinador o incentiva com palavras e o movimento seguinte do Pokémon será um **ACERTO CRÍTICO** que causará **DANO NEUTRO** (x1), ignorando imunidades ou resistências adversárias."
     },
     {
       "nome": "Brilhante",
-      "descricao": "Se especializa em encontrar pokémon de cores diferentes, o que lhe CONFERE +10% DE CHANCE DE ENCONTRAR UM POKÉMON SHINY em rolagens diárias."
+      "descricao": "Se especializa em encontrar pokémon de cores diferentes, o que lhe **CONFERE +10% DE CHANCE DE ENCONTRAR UM POKÉMON SHINY** em rolagens diárias."
     },
     {
       "nome": "Brilhante II",
       "requisito": "Brilhante I",
-      "descricao": "Pode aumentar em +10% A CHANCE DE ENCONTRAR UM ÚNICO POKÉMON SHINY por dia após a rolagem OU aplicar +5% em todos os Pokémon que encontrar no dia."
+      "descricao": "Pode aumentar em **+10% A CHANCE DE ENCONTRAR UM ÚNICO POKÉMON SHINY** por dia após a rolagem OU aplicar +5% em todos os Pokémon que encontrar no dia."
     },
     {
       "nome": "Brilhante III",
       "requisito": "Brilhante II",
-      "descricao": "Em Show Battle, É IMUNE A PERDA DE PONTOS devido a um Pokémon adversário ser SHINY."
+      "descricao": "Em Show Battle, **É IMUNE A PERDA DE PONTOS** devido a um Pokémon adversário ser SHINY."
     },
     {
       "nome": "Economista",
-      "descricao": "Está ligado em promoções e ofertas, assim DIMINUI 30% O PREÇO DE ITENS nas Stores. Estes itens não podem ser revendidos."
+      "descricao": "Está ligado em promoções e ofertas, assim **DIMINUI 30% O PREÇO DE ITENS** nas Stores. Estes itens não podem ser revendidos."
     },
     {
       "nome": "Batalhas Amistosas",
-      "descricao": "Por se envolverem em batalhas com frequência recebem algumas facilidades. Ao vencer em uma batalha (PvP ou GYM Battle) RECEBE +1 PONTO POR TURNO de combate. Além disso, mesmo se for derrotado NÃO SOFRE DECRÉSCIMO DE HAPP pela batalha."
+      "descricao": "Por se envolverem em batalhas com frequência recebem algumas facilidades. Ao vencer em uma batalha (PvP ou GYM Battle) **RECEBE +1 PONTO POR TURNO** de combate. Além disso, mesmo se for derrotado **NÃO SOFRE DECRÉSCIMO DE HAPP** pela batalha."
     },
     {
       "nome": "Prodígio",
-      "descricao": "Seus Pokémon estão sempre procurando se desenvolver, assim tendem a APRENDER MOVIMENTOS ATÉ 20 NÍVEIS ANTES do que aprenderia normalmente."
+      "descricao": "Seus Pokémon estão sempre procurando se desenvolver, assim tendem a **APRENDER MOVIMENTOS ATÉ 20 NÍVEIS ANTES** do que aprenderia normalmente."
     },
     {
       "nome": "Expansão",
-      "descricao": "Para saciar sua vontade em capturar pode aprimorar o espaço que possui, para cada Pokémon LV 80, ABRE UM NOVO SLOT na box."
+      "descricao": "Para saciar sua vontade em capturar pode aprimorar o espaço que possui, para cada Pokémon LV 80, **ABRE UM NOVO SLOT** na box."
     },
     {
       "nome": "Traços",
-      "descricao": "Quando se interessa em Pokémon com certos traços em comum, como: felinos, canídeos, shinies, etc. Ganha +1 LVL em treinos de nível OU +10 HAPP para treinos de felicidade feito com os pokémon de sua especialidade (identificar se felicidade ou nível ao adquirir o Talento, além do traço pokémon de especialidade)."
+      "descricao": "Quando se interessa em Pokémon com certos traços em comum, como: felinos, canídeos, shinies, etc. Ganha **+1 LVL** em treinos de nível OU **+10 HAPP** para treinos de felicidade feito com os pokémon de sua especialidade (identificar se felicidade ou nível ao adquirir o Talento, além do traço pokémon de especialidade)."
     },
     {
       "nome": "Agricultor",
-      "descricao": "Com um maior conhecimento de técnicas de plantios e cuidados com o solo, se torna possível garantir colheitas mais eficientes. Faz com que +2 apricorn OU +1 herb OU +2 berries possam ser colhidas (escolher apenas uma opção)."
+      "descricao": "Com um maior conhecimento de técnicas de plantios e cuidados com o solo, se torna possível garantir colheitas mais eficientes. Faz com que +2 apricorn **OU** +1 herb **OU** +2 berries possam ser colhidas (escolher apenas uma opção)."
     },
     {
       "nome": "Agricultor II",
       "requisito": "Agricultor",
-      "descricao": "Faz com que +2 apricorn OU +1 herb OU +2 berries possam ser colhidas (escolher apenas uma opção que já não tenha sido escolhida)."
+      "descricao": "Faz com que +2 apricorn **OU** +1 herb **OU** +2 berries possam ser colhidas (escolher apenas uma opção que já não tenha sido escolhida)."
     },
     {
       "nome": "Agricultor III",
       "requisito": "Agricultor II",
-      "descricao": "Faz com que +2 apricorn OU +1 herb OU +2 berries possam ser colhidas (escolher apenas uma opção que já não tenha sido escolhida)."
+      "descricao": "Faz com que +2 apricorn **OU** +1 herb **OU** +2 berries possam ser colhidas (escolher apenas uma opção que já não tenha sido escolhida)."
     }
   ]
 }

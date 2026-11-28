@@ -1,0 +1,46 @@
+{
+  "duracao_padrao": "12 semanas",
+  "cursos": [
+    {
+      "nome": "Cartografia e Navegação",
+      "departamento": "Ecologia e Exploração",
+      "professor": "A definir",
+      "duracao": "12 semanas",
+      "icone": "bussola",
+      "descricao": "Apresenta os fundamentos da cartografia e da orientação geográfica, ensinando os estudantes a interpretar mapas, utilizar instrumentos de navegação e planejar rotas para diferentes tipos de território."
+    },
+    {
+      "nome": "Agricultura e Cultivo de Berries",
+      "departamento": "Botânica e Agricultura",
+      "professor": "A definir",
+      "duracao": "12 semanas",
+      "icone": "planta",
+      "descricao": "Aborda técnicas de agricultura e botânica aplicadas ao cultivo de Berries, desde a preparação do solo e plantio até os cuidados com as plantações, colheita e armazenamento."
+    },
+    {
+      "nome": "Paleontologia Pokémon",
+      "departamento": "Ciências Pokémon",
+      "professor": "A definir",
+      "duracao": "12 semanas",
+      "icone": "fossil",
+      "descricao": "Introduz os estudantes ao estudo de espécies pré-históricas, explorando a identificação, escavação, preservação e análise de fósseis, além dos processos de revitalização Pokémon."
+    },
+    {
+      "nome": "Engenharia de Poké Balls",
+      "departamento": "Tecnologia e Desenvolvimento Técnico",
+      "professor": "A definir",
+      "duracao": "12 semanas",
+      "icone": "ball",
+      "descricao": "Explora os princípios tecnológicos por trás das Poké Balls, apresentando seus diferentes modelos, componentes, mecanismos de funcionamento, manutenção e possibilidades de desenvolvimento.",
+      "ativo": false
+    },
+    {
+      "nome": "Culinária Pokémon",
+      "departamento": "Criação e Cuidados",
+      "professor": "A definir",
+      "duracao": "12 semanas",
+      "icone": "chef",
+      "descricao": "Ensina técnicas culinárias voltadas à preparação de alimentos para Pokémon, explorando ingredientes, combinações de sabores, receitas especiais, confeitaria e produção de Pokéblocks."
+    }
+  ]
+}

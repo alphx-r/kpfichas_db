@@ -137,6 +137,11 @@
     "ab_desc": "Aumenta a accuracy dos movimentos em 30%. Fora de Batalha. Quando um pokémon com essa habilidade for utilizado em batalha tem uma chance de encontrar um item ao fim da mesma. Importante ressaltar que este Pokémon tem que participar da batalha e não estar equipado com outro item. No fim da batalha, o jogador deve rolar 1d100. E, de acordo com o resultado, um item pode ser encontrado."
   },
   {
+    "name": "contagion",
+    "ab_desc": "Quando este Pokémon envenena um alvo adversário, o veneno se torna contagioso: se esse alvo for trocado ou derrotado enquanto estiver envenenado, o Pokémon que entra em campo no lugar dele também fica envenenado. O efeito acontece uma única vez por batalha, e Pokémon imunes a veneno não são afetados.",
+    "approved": true
+  },
+  {
     "name": "contrary",
     "ab_desc": "Inverts stat changes."
   },
